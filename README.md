@@ -6,8 +6,6 @@ This contains source codes of TIP15 and ICME14 work
 ## Background Subtraction Based on Low-Rank and Structured Sparse Decomposition
 By Xin Liu, Guoying Zhao, Jiawen Yao and Chun Qi , In *IEEE TIP*, *Vol. 24, 2502 - 2514, 2015*
 
-LSD was initially presented in [ICME 2014](http://ieeexplore.ieee.org/document/6890200/).
-
 <p align="center">
   <img align="center" src="Overview.png" width="600">
 </p>
